@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Scroll to the recommendation result section
                 setTimeout(() => {
                     searchResultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }, 100); // Adjust the delay time as needed
+                }, 400); // Adjust the delay time as needed
 
             }
 
